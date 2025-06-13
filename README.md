@@ -34,15 +34,15 @@ Applications:
 ## 🚀 How to Run
 
 ### 1. Upload Arduino Code
+Take the arduino codes from the arduino_codes folder and upload it (example)
 ```bash
 src/arduino_code.ino
 ```
-
+then rune processing code or .exe file 
 ### 2. Run GUI
 ```bash
-src/processing_gui.pde
+src/processing.pde
 ```
-
 ## 📷 Images
 
 - Check Images folder 
