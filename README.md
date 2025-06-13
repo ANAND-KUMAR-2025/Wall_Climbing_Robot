@@ -44,7 +44,7 @@ src/processing_gui.pde
 
 ## 📷 Images
 
-- `robot_design.png`: CAD model or prototype image
+- Check Images folder 
 
 ## 📜 License
 
