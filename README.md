@@ -2,6 +2,7 @@
 
 A wall-climbing robot capable of navigating vertical and inverted surfaces using an EDF (Electric Ducted Fan)-based suction mechanism. This project combines 3D-printed design, Arduino-based control, and wireless communication for robust mobility in complex environments.
 
+![wall climbing robot image](Images/project_inside_robot_parts.jpg)
 ## 📌 Project Overview
 
 Applications:
