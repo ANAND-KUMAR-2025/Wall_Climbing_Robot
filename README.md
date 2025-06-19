@@ -51,9 +51,7 @@ src/processing.pde
 
 MIT License
 
-## 🤖 Authors
+## 🤖 Author
 
 - Anand Kumar
-- Devesh Jha
-- Anjali Harikrishnan
-- Aditya Choudhary
+
